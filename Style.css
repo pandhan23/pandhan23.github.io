@@ -43,3 +43,11 @@ body{
     cursor: pointer;
     border: 2px solid white;
 }
+
+.container h1{
+    text-align: center;
+    color: white;
+    background-color: #207e76;
+    
+    height: 50px;
+}
